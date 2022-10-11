@@ -1,0 +1,4 @@
+aiogram~=2.12.1
+environs~=8.0.0
+SQLAlchemy~=1.4.18
+asyncpg
